@@ -47,5 +47,13 @@ The business needed answers to three key questions:
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
+---
+
+## 👤 Author
+
+**Ibrahim Dayyat** — Management Consultant & Data Analytics Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a2463?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-dayyat-a6119947)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ecc71?style=flat-square&logo=databricks&logoColor=white)](https://www.datascienceportfol.io/ibrahimdayyat)
 
 ## 📁 Repository Structure
