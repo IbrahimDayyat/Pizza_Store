@@ -1,23 +1,51 @@
-# Pizza_Store
-🚀 Power BI Project Success – Slicing Through Data, One Pizza at a Time! 🚀
+# 🍕 Pizza Sales Analytics Dashboard
 
-# What I Delivered:
-✅ End-to-End Data Pipeline: Integrated and cleaned multi-source data using Power Query, ensuring razor-sharp accuracy.
-✅ Strategic DAX Measures: Calculated KPIs like Revenue vs Target and Average Order Value to drive actionable insights.
-✅ Interactive Dashboards: Designed slicers (Shift, Size, Category) and dynamic visuals for real-time decision-making.
+> Transforming raw sales data into a revenue strategy — one slice at a time.
 
-# Key Insights:
-🔥 Revenue Victory: 818K∗∗achieved, beating the 800K target by 2.25% – small margins, big wins! 🎯
-📦 Size Champion: Large (L) Pizzas dominated with 45.89% of total revenue – go big or go home! 🍕💪
-⏰ Shift Spotlight: Afternoon shifts drove peak sales, with Chicken pizzas as top performers.
-🌟 Menu Star: The Thai Chicken Pizza sizzled with $43K in revenue – a crowd favorite!
+## 📌 Project Overview
 
+This Power BI project analyzes 12 months of sales data for a pizza chain, tracking revenue performance against targets, order trends, peak hours, and menu item performance. The goal was to give operations management clear, actionable visibility into what drives performance — and where growth opportunities remain.
 
-# Why This Rocks:
-These dashboards empower data-driven decisions on menu optimization, staffing, and promotions – turning data into delicious profits! 💸
-Unlock granular insights for optimizing menus, inventory, and promotions – because even a $1K difference can tip the scales! ⚖️💸
+**Result:** $818K revenue achieved — **2.25% above target**.
 
-A huge thanks to everyone who contributed feedback – collaboration fuels precision! 🙌
-Let’s connect if you’re passionate about data storytelling, Power BI, or debating the perfect pizza topping! 🍍🔍
+---
 
-hashtag#PowerBI hashtag#DataAnalytics hashtag#BusinessIntelligence hashtag#FoodTech hashtag#DataDrivenDecisions
+## 🎯 Business Problem
+
+The business needed answers to three key questions:
+- Are we hitting our revenue targets — and by how much?
+- When are our peak sales periods, and how should we staff accordingly?
+- Which menu items and sizes are driving the most revenue?
+
+---
+
+## 🔧 Approach & Methodology
+
+| Step | Description |
+|------|-------------|
+| Data Integration | Connected and cleaned multi-source data using Power Query |
+| Data Modeling | Built relationships between sales, orders, and menu tables |
+| DAX Measures | Calculated KPIs including Revenue vs Target, Average Order Value, and cumulative sales |
+| Dashboard Design | Built interactive slicers by Shift, Size, and Category for real-time filtering |
+
+---
+
+## 💡 Key Insights
+
+- 🏆 **Revenue**: $818K achieved — beating $800K target by **2.25%**
+- 🍕 **Top Size**: Large (L) pizzas dominated with **45.89%** of total revenue
+- ⏰ **Peak Period**: Afternoon shifts drove the highest sales volume
+- 🌟 **Menu Star**: Thai Chicken Pizza led with **$43K** in individual revenue
+- 📦 **Order Insight**: Weekend orders showed consistently higher average order values
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📁 Repository Structure
